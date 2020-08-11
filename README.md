@@ -9,6 +9,8 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 ## 2017
 
+### Image Compression
+
 * [Google] George Toderici, Damien Vincent, Nick Johnston, Sung Jin Hwang, David Minnen, Joel Shor, Michele Covell: Full Resolution Image Compression with Recurrent Neural Networks. CVPR 2017. [[paper]](https://arxiv.org/abs/1608.05148)
 * [NYU] J. Ballé, V. Laparra, E. P. Simoncelli: End-to-end optimized image compression. ICLR 2017.[[paper]](https://arxiv.org/abs/1611.01704)
 * [Twitter] L. Theis, W. Shi, A. Cunningham, F. Huszár: Lossy image compression with compressive autoencoders. ICLR 2017. [[paper]](https://arxiv.org/abs/1703.00395)
