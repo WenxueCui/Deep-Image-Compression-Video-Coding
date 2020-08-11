@@ -112,4 +112,5 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [TUM] Reinhard Heckel, Mahdi Soltanolkotabi: Compressive sensing with un-trained neural networks: Gradient descent finds the smoothest approximation. ICML 2020. [[paper]](https://arxiv.org/pdf/2005.03991.pdf)
 * [TU/e] Iris A.M. Huijben, Bastiaan S. Veeling, Ruud J.G. van Sloun: Deep probabilistic subsampling for task-adaptive compressed sensing. ICLR 2020. [[paper]](https://openreview.net/pdf?id=SJeq9JBFvH)
+* [NUS] Zhaoqiang Liu, Selwyn Gomes, Avtansh Tiwari, Jonathan Scarlett: Sample Complexity Bounds for 1-bit Compressive Sensing and Binary Stable Embeddings with Generative Priors. ICML 2020. [[paper]](https://arxiv.org/abs/2002.01697)
 
