@@ -50,7 +50,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 ### Video Coding
 
 * [FUDAN] Yi Xu, Longwen Gao, Kai Tian, Shuigeng Zhou, Huyang Sun: Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019. [[paper]](https://arxiv.org/abs/1910.12286?context=cs)
-
+* [MSU] Vitaliy Lyudvichenko, Mikhail Erofeev, Alexander Ploshkin, Dmitriy Vatolin: Improving Video Compression with Deep Visual-attention Models. IMIP 2019. [[paper]](https://www.researchgate.net/publication/334310556_Improving_Video_Compression_with_Deep_Visual-attention_Models)
 
 ## 2020
 
