@@ -81,13 +81,17 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [BUAA] Jiaheng Liu, Guo Lu, Zhihao Hu, Dong Xu: A Unified End-to-End Framework for Efficient Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2002.03370)
 * [UT-Austin] Li-Heng Chen, Christos G. Bampis, Zhi Li, Andrey Norkin, Alan C. Bovik: Perceptually Optimizing Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2007.02711v1)
+* [UofT] Yaolong Wang, Mingqing Xiao, Chang Liu, Shuxin Zheng, Tie-Yan Liu: Modeling Lost Information in Lossy Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2006.11999v1)
 
 ### Video Coding
 
+* [USTC] Jianping Lin, Dong Liu, Houqiang Li, Feng Wu: M-LVC: Multiple Frames Prediction for Learned Video Compression. CVPR 2020. [[paper]](https://arxiv.org/abs/2004.10290)
 * [ETH Zurich] Ren Yang, Luc Van Gool, Radu Timofte: OpenDVC: An Open Source Implementation of the DVC Video Compression Method. Arxiv. [[paper]](https://arxiv.org/abs/2006.15862)
+* [Tucodec Inc] XiangJi Wu, Ziwen Zhang, Jie Feng, Lei Zhou, Junmin Wu: End-to-end Optimized Video Compression with MV-Residual Prediction. CVPR 2020 Workshops. [[paper]](https://arxiv.org/abs/2005.12945)
 * [SJTU] Guo Lu, Chunlei Cai, Xiaoyun Zhang, Li Chen, Wanli Ouyang, Dong Xu, Zhiyong Gao: Content Adaptive and Error Propagation Aware Deep Video Compression. Arxiv. [[paper]](https://arxiv.org/abs/2003.11282)
 * [ETH Zurich] Ren Yang, Fabian Mentzer, Luc Van Gool, Radu Timofte: Learning for Video Compression with Recurrent Auto-Encoder and Recurrent Probability Model. Arxiv. [[paper]](https://arxiv.org/abs/2006.13560v1)
 * [ETH Zurich] Ren Yang, Fabian Mentzer, Luc Van Gool, Radu Timofte: Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement. Arxiv. [[paper]](https://arxiv.org/abs/2003.01966)
+* [IETR] Théo Ladune (IETR), Pierrick Philippe, Wassim Hamidouche (IETR), Lu Zhang (IETR), Olivier Déforges (IETR): ModeNet: Mode Selection Network For Learned Video Coding. Arxiv. [[paper]](https://arxiv.org/abs/2007.02532v1)
 
 
 
