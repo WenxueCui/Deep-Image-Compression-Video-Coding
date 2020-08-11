@@ -68,7 +68,9 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [University of Bristol] Fan Zhang, Mariana Afonso, David Bull: Enhanced Video Compression Based on Effective Bit Depth Adaptation. ICIP 2019. [[paper]](https://ieeexplore.ieee.org/document/8803185)
 * [DisneyResearch] Abdelaziz Djelouah ; Joaquim Campos ; Simone Schaub-Meyer ; Christopher Schroers： Neural Inter-Frame Compression for Video Coding. ICCV 2019. [[paper]](https://ieeexplore.ieee.org/document/9009574)
 * [Qualcomm AI Research] Amirhossein Habibian, Ties van Rozendaal, Jakub M. Tomczak, Taco S. Cohen: Video Compression With Rate-Distortion Autoencoders. ICCV 2019. [[paper]](https://arxiv.org/abs/1908.05717)
+* [USTC] Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu: Deep Learning-Based Video Coding: A Review and A Case Study. Arxiv. [[paper]](https://arxiv.org/abs/1904.12462v1)
 * [KAIST] Woonsung Park, Munchurl Kim: Deep Predictive Video Compression with Bi-directional Prediction. Arxiv. [[paper]](https://arxiv.org/abs/1904.02909)
+* [Qualcomm] Hilmi E. Egilmez, Yung-Hsuan Chao, Antonio Ortega: Graph-based Transforms for Video Coding. Arxiv. [[paper]](https://arxiv.org/abs/1909.00952)
 * [MSU] Vitaliy Lyudvichenko, Mikhail Erofeev, Alexander Ploshkin, Dmitriy Vatolin: Improving Video Compression with Deep Visual-attention Models. IMIP 2019. [[paper]](https://www.researchgate.net/publication/334310556_Improving_Video_Compression_with_Deep_Visual-attention_Models)
 * [university of bristol] Fan Zhang, Mariana Afonso, David R. Bull: ViSTRA2: Video Coding using Spatial Resolution and Effective Bit Depth Adaptation. Arxiv. [[paper]](https://arxiv.org/abs/1911.02833)
 
