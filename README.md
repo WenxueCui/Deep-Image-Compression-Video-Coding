@@ -81,6 +81,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 ### Image Compression
 
+* [U-Tokyo] Zhisheng Zhong, Hiroaki Akutsu, Kiyoharu Aizawa: Channel-Level Variable Quantization Network for Deep Image Compression. IJCAI 2020. [[paper]](https://arxiv.org/pdf/2007.12619.pdf)
 * [BUAA] Jiaheng Liu, Guo Lu, Zhihao Hu, Dong Xu: A Unified End-to-End Framework for Efficient Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2002.03370)
 * [UT-Austin] Li-Heng Chen, Christos G. Bampis, Zhi Li, Andrey Norkin, Alan C. Bovik: Perceptually Optimizing Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2007.02711v1)
 * [NJU] Haojie Liu, Han shen, Lichao Huang, Ming Lu, Tong Chen, Zhan Ma: Learned Video Compression via Joint Spatial-Temporal Correlation Exploration. AAAI 2020. [[paper]](https://arxiv.org/abs/1912.06348)
@@ -106,4 +107,5 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 ## Compressed Sensing
 
+* [TUM] Reinhard Heckel, Mahdi Soltanolkotabi: Compressive sensing with un-trained neural networks: Gradient descent finds the smoothest approximation. ICML 2020. [[paper]](https://arxiv.org/pdf/2005.03991.pdf)
 
