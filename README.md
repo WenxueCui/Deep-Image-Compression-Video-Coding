@@ -19,7 +19,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [Dartmouth] M. H. Baig, V. Koltun, L. Torresani: Learning to Inpaint for Image Compression. NIPS 2017. [[paper]](https://arxiv.org/abs/1709.08855)
 
 ### Video Coding
-* [NJU] Tong Chen, Haojie Liu, Qiu Shen, Tao Yue: DeepCoder: A deep neural network based video compression. VCIP 2017. [[paper]](https://ieeexplore.ieee.org/document/8305033）
+* [NJU] Tong Chen, Haojie Liu, Qiu Shen, Tao Yue: DeepCoder: A deep neural network based video compression. VCIP 2017. [[paper]](https://ieeexplore.ieee.org/document/8305033)
 
 ## 2018
 ### Image Compression
