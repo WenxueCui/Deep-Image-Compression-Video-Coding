@@ -56,6 +56,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [ETRI] Jooyoung Lee, Seunghyun Cho, Seung-Kwon Beack: Context-adaptive Entropy Model for End-to-end Optimized Image Compression. ICLR 2019. [[paper]](https://arxiv.org/abs/1809.10452)
 * [Waseda University] Song Zebang, Kamata Sei-ichiro: Densely connected AutoEncoders for image compression. ICIGP 2019. [[paper]](https://dl.acm.org/doi/10.1145/3313950.3313965)
 * [Waseda University] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto: Energy Compaction-Based Image Compression Using Convolutional AutoEncoder. Trans MM. [[paper]](https://ieeexplore.ieee.org/document/8820051)
+* [ETH Zurich] Maurice Weber, Cedric Renggli, Helmut Grabner, Ce Zhang: Lossy Image Compression with Recurrent Neural Networks: from Human Perceived Visual Quality to Classification Accuracy. Arxiv. [[paper]](https://arxiv.org/abs/1910.03472?context=cs)
 * [VUB] Ionut Schiopu, Adrian Munteanu: Deep-learning based Lossless Image Coding. Trans CSVT. [[paper]](https://ieeexplore.ieee.org/document/8684320)
 * [Waseda University] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto: Learning Image and Video Compression through Spatial-Temporal Energy Compaction. CVPR 2019. [[paper]](https://arxiv.org/abs/1906.09683?context=eess.IV)
 * [NJU] Haojie Liu, Tong Chen, Peiyao Guo, Qiu Shen, Zhan Ma: Gated Context Model with Embedded Priors for Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/1902.10480v1)
@@ -79,6 +80,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 ### Image Compression
 
 * [BUAA] Jiaheng Liu, Guo Lu, Zhihao Hu, Dong Xu: A Unified End-to-End Framework for Efficient Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2002.03370)
+* [UT-Austin] Li-Heng Chen, Christos G. Bampis, Zhi Li, Andrey Norkin, Alan C. Bovik: Perceptually Optimizing Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2007.02711v1)
 
 ### Video Coding
 
