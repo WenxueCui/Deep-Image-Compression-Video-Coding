@@ -25,6 +25,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 ### Image Compression
 * [Google] N. Johnston, D. Vincent, D. Minnen, M. Covell, S. Singh, T. Chinen, S. J. Hwang, J. Shor, G. Toderici: Improved lossy image compression with priming and spatially adaptive bit rates for recurrent networks. CVPR 2018. [[paper]](https://arxiv.org/abs/1703.10114)
 * [HKPU] M. Li, W. Zuo, S. Gu, D. Zhao, D. Zhang: Learning convolutional networks for content-weighted image compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1703.10553)
+* [Google] Johannes Ballé, David Minnen, Saurabh Singh, Sung Jin Hwang, Nick Johnston: Variational image compression with a scale hyperprior. ICLR 2018. [[paper]](https://arxiv.org/abs/1802.01436)
 * [ETHZ] F. Mentzer, E. Agustsson, M. Tschannen, R. Timofte, L. Van Gool: Conditional probability models for deep image compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1801.04260)
 * [Technion] T.R. Shaham, T. Michaeli: Deformation Aware Image Compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1804.04593)
 * [INRIA] T. Dumas, Aline, Roumy, C. Guillemot: Autoencoder based Image Compression: Can the Learning be Quantization Independent? ICASSP 2018. [[paper]](https://arxiv.org/abs/1802.09371)
@@ -53,9 +54,10 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [SoC R&D] Choi, Yoojin，El-Khamy, Mostafa，Lee, Jungwon: Variable Rate Deep Image Compression With a Conditional Autoencoder. ICCV 2019. [[paper]](https://arxiv.org/abs/1909.04802v1)
 * [Waseda University] Song Zebang, Kamata Sei-ichiro: Densely connected AutoEncoders for image compression. ICIGP 2019. [[paper]](https://dl.acm.org/doi/10.1145/3313950.3313965)
 * [Waseda University] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto: Learning Image and Video Compression through Spatial-Temporal Energy Compaction. CVPR 2019. [[paper]](https://arxiv.org/abs/1906.09683?context=eess.IV)
+* [NJU] Haojie Liu, Tong Chen, Peiyao Guo, Qiu Shen, Zhan Ma: Gated Context Model with Embedded Priors for Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/1902.10480v1)
 
 ### Video Coding
-
+* [Dartmouth] Jun Han, Salvator Lombardo, Christopher Schroers, Stephan Mandt: Deep Generative Video Compression. NIPS 2019. [[paper]](https://arxiv.org/abs/1810.02845?context=cs.CV)
 * [FUDAN] Yi Xu, Longwen Gao, Kai Tian, Shuigeng Zhou, Huyang Sun: Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019. [[paper]](https://arxiv.org/abs/1910.12286?context=cs)
 * [Qualcomm AI Research] Amirhossein Habibian, Ties van Rozendaal, Jakub M. Tomczak, Taco S. Cohen: Video Compression With Rate-Distortion Autoencoders. ICCV 2019. [[paper]](https://arxiv.org/abs/1908.05717)
 * [KAIST] Woonsung Park, Munchurl Kim: Deep Predictive Video Compression with Bi-directional Prediction. Arxiv. [[paper]](https://arxiv.org/abs/1904.02909)
