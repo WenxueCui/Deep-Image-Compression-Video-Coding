@@ -69,6 +69,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [University of Bristol] Fan Zhang, Mariana Afonso, David Bull: Enhanced Video Compression Based on Effective Bit Depth Adaptation. ICIP 2019. [[paper]](https://ieeexplore.ieee.org/document/8803185)
 * [DisneyResearch] Abdelaziz Djelouah ; Joaquim Campos ; Simone Schaub-Meyer ; Christopher Schroers： Neural Inter-Frame Compression for Video Coding. ICCV 2019. [[paper]](https://ieeexplore.ieee.org/document/9009574)
 * [Qualcomm AI Research] Amirhossein Habibian, Ties van Rozendaal, Jakub M. Tomczak, Taco S. Cohen: Video Compression With Rate-Distortion Autoencoders. ICCV 2019. [[paper]](https://arxiv.org/abs/1908.05717)
+* [NUIST] Zhaoqing Pan, Feng Yuan, Jianjun Lei, Sam Kwong: Video Compression Coding via Colorization: A Generative Adversarial Network (GAN)-Based Approach. Arxiv. [[paper]](https://arxiv.org/abs/1912.10653v1)
 * [USTC] Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu: Deep Learning-Based Video Coding: A Review and A Case Study. Arxiv. [[paper]](https://arxiv.org/abs/1904.12462v1)
 * [KAIST] Woonsung Park, Munchurl Kim: Deep Predictive Video Compression with Bi-directional Prediction. Arxiv. [[paper]](https://arxiv.org/abs/1904.02909)
 * [Qualcomm] Hilmi E. Egilmez, Yung-Hsuan Chao, Antonio Ortega: Graph-based Transforms for Video Coding. Arxiv. [[paper]](https://arxiv.org/abs/1909.00952)
@@ -81,6 +82,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [BUAA] Jiaheng Liu, Guo Lu, Zhihao Hu, Dong Xu: A Unified End-to-End Framework for Efficient Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2002.03370)
 * [UT-Austin] Li-Heng Chen, Christos G. Bampis, Zhi Li, Andrey Norkin, Alan C. Bovik: Perceptually Optimizing Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2007.02711v1)
+* [Waseda University] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto: Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules. Arxiv. [[paper]](https://arxiv.org/abs/2001.01568)
 * [UT-Austin] Sheng Cao, Chao-Yuan Wu, Philipp Krähenbühl: Lossless Image Compression through Super-Resolution. Arxiv. [[paper]](https://arxiv.org/abs/2004.02872)
 * [UofT] Yaolong Wang, Mingqing Xiao, Chang Liu, Shuxin Zheng, Tie-Yan Liu: Modeling Lost Information in Lossy Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2006.11999v1)
 
