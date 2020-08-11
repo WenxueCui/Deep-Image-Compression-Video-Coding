@@ -63,6 +63,8 @@ Recent papers and codes related to deep learning/deep neural network based image
 ### Video Coding
 * [Dartmouth] Jun Han, Salvator Lombardo, Christopher Schroers, Stephan Mandt: Deep Generative Video Compression. NIPS 2019. [[paper]](https://arxiv.org/abs/1810.02845?context=cs.CV)
 * [FUDAN] Yi Xu, Longwen Gao, Kai Tian, Shuigeng Zhou, Huyang Sun: Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019. [[paper]](https://arxiv.org/abs/1910.12286?context=cs)
+* [SFU] Hyomin Choi, Ivan V. Bajić: Deep Frame Prediction for Video Coding. Trans CSVT. [[paper]](https://ieeexplore.ieee.org/document/8744618)
+
 * [Qualcomm AI Research] Amirhossein Habibian, Ties van Rozendaal, Jakub M. Tomczak, Taco S. Cohen: Video Compression With Rate-Distortion Autoencoders. ICCV 2019. [[paper]](https://arxiv.org/abs/1908.05717)
 * [KAIST] Woonsung Park, Munchurl Kim: Deep Predictive Video Compression with Bi-directional Prediction. Arxiv. [[paper]](https://arxiv.org/abs/1904.02909)
 * [MSU] Vitaliy Lyudvichenko, Mikhail Erofeev, Alexander Ploshkin, Dmitriy Vatolin: Improving Video Compression with Deep Visual-attention Models. IMIP 2019. [[paper]](https://www.researchgate.net/publication/334310556_Improving_Video_Compression_with_Deep_Visual-attention_Models)
