@@ -16,6 +16,9 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [WaveOne] O. Rippel, L. Bourdev: Real-time adaptive image compression. ICML 2017. [[paper]](https://arxiv.org/abs/1705.05823)
 * [Dartmouth] M. H. Baig, V. Koltun, L. Torresani: Learning to Inpaint for Image Compression. NIPS 2017. [[paper]](https://arxiv.org/abs/1709.08855)
 
+### Video Coding
+* [NJU] Tong Chen, Haojie Liu, Qiu Shen, Tao Yue: DeepCoder: A deep neural network based video compression. VCIP 2017. [[paper]](https://www.researchgate.net/publication/323501194_DeepCoder_A_deep_neural_network_based_video_compression）
+
 ## 2018
 ### Image Compression
 * [Google] N. Johnston, D. Vincent, D. Minnen, M. Covell, S. Singh, T. Chinen, S. J. Hwang, J. Shor, G. Toderici: Improved lossy image compression with priming and spatially adaptive bit rates for recurrent networks. CVPR 2018. [[paper]](https://arxiv.org/abs/1703.10114)
@@ -37,6 +40,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [WaveOne] O. Rippel, S. Nair, C. Lew, S. Branson, A. G. Anderson, L. Bourdev: Learned Video Compression. ArXiv. [[paper]](https://arxiv.org/abs/1811.06981)
 * [SJTU/Sydney] G. Lu, W. Ouyang, D. Xu, X. Zhang, C. Cai, Z. Gao: DVC: An End-to-end Deep Video Compression Framework. ArXiv. [[paper]](https://arxiv.org/abs/1812.00101)
 * [UTEXAS] S. Kim, J. S. Park, C. G. Bampis, J. Lee, M. K. Markey, A. G. Dimakis, A. C. Bovik: Adversarial Video Compression Guided by Soft Edge Detection. ArXiv. [[paper]](https://arxiv.org/abs/1811.10673)
+* [BUAA] Ren Yang, Mai Xu, Zulin Wang, Tianyi Li: Multi-Frame Quality Enhancement for Compressed Video. CVPR 2018. [[paper]](https://arxiv.org/abs/1803.04680)
 
 ## 2019
 
@@ -46,11 +50,15 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [FIU] Zihao Liu, Qi Liu, Tao Liu, Nuo Xu, Xue Lin, Yanzhi Wang, Wujie Wen: Feature Distillation: DNN-Oriented JPEG Compression Against Adversarial Examples. CVPR 2019. [[paper]](https://arxiv.org/abs/1803.05787)
 * [SoC R&D] Choi, Yoojin，El-Khamy, Mostafa，Lee, Jungwon: Variable Rate Deep Image Compression With a Conditional Autoencoder. ICCV 2019. [[paper]](https://arxiv.org/abs/1909.04802v1)
 * [Waseda University] Song Zebang, Kamata Sei-ichiro: Densely connected AutoEncoders for image compression. ICIGP 2019. [[paper]](https://dl.acm.org/doi/10.1145/3313950.3313965)
+* [Waseda University] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto: Learning Image and Video Compression through Spatial-Temporal Energy Compaction. CVPR 2019. [[paper]](https://arxiv.org/abs/1906.09683?context=eess.IV)
 
 ### Video Coding
 
 * [FUDAN] Yi Xu, Longwen Gao, Kai Tian, Shuigeng Zhou, Huyang Sun: Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019. [[paper]](https://arxiv.org/abs/1910.12286?context=cs)
+* [Qualcomm AI Research] Amirhossein Habibian, Ties van Rozendaal, Jakub M. Tomczak, Taco S. Cohen: Video Compression With Rate-Distortion Autoencoders. ICCV 2019. [[paper]](https://arxiv.org/abs/1908.05717)
+* [KAIST] Woonsung Park, Munchurl Kim: Deep Predictive Video Compression with Bi-directional Prediction. Arxiv. [[paper]](https://arxiv.org/abs/1904.02909)
 * [MSU] Vitaliy Lyudvichenko, Mikhail Erofeev, Alexander Ploshkin, Dmitriy Vatolin: Improving Video Compression with Deep Visual-attention Models. IMIP 2019. [[paper]](https://www.researchgate.net/publication/334310556_Improving_Video_Compression_with_Deep_Visual-attention_Models)
+* [university of bristol] Fan Zhang, Mariana Afonso, David R. Bull: ViSTRA2: Video Coding using Spatial Resolution and Effective Bit Depth Adaptation. Arxiv. [[paper]](https://arxiv.org/abs/1911.02833)
 
 ## 2020
 
