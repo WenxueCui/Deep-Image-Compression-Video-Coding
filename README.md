@@ -96,6 +96,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [USTC] Jianping Lin, Dong Liu, Houqiang Li, Feng Wu: M-LVC: Multiple Frames Prediction for Learned Video Compression. CVPR 2020. [[paper]](https://arxiv.org/abs/2004.10290)
 * [ETH Zurich] Ren Yang, Luc Van Gool, Radu Timofte: OpenDVC: An Open Source Implementation of the DVC Video Compression Method. Arxiv. [[paper]](https://arxiv.org/abs/2006.15862)
 * [Tucodec Inc] XiangJi Wu, Ziwen Zhang, Jie Feng, Lei Zhou, Junmin Wu: End-to-end Optimized Video Compression with MV-Residual Prediction. CVPR 2020 Workshops. [[paper]](https://arxiv.org/abs/2005.12945)
+* Improving Deep Video Compression by Resolution-adaptive Flow Coding. ECCV 2020. [[paper]]
 * [Hikvision] Jianing Deng, LiWang, Shiliang Pu, Cheng Zhuo: Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement. AAAI 2020. [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6697/6551)
 * [UCSD] Vijay Veerabadran, Reza Pourreza, Amirhossein Habibian, Taco Cohen: Adversarial Distortion for Learned Video Compression. Arxiv. [[paper]](https://arxiv.org/abs/2004.09508)
 * [Nokia] Nannan Zou, Honglei Zhang, Francesco Cricri, Hamed R. Tavakoli, Jani Lainema, Emre Aksu, Miska Hannuksela, Esa Rahtu: End-to-End Learning for Video Frame Compression with Self-Attention. Arxiv. [[paper]](https://arxiv.org/abs/2004.09226)
