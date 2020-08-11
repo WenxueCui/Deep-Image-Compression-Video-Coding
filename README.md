@@ -17,7 +17,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [Dartmouth] M. H. Baig, V. Koltun, L. Torresani: Learning to Inpaint for Image Compression. NIPS 2017. [[paper]](https://arxiv.org/abs/1709.08855)
 
 ## 2018
-
+### Image Compression
 * [Google] N. Johnston, D. Vincent, D. Minnen, M. Covell, S. Singh, T. Chinen, S. J. Hwang, J. Shor, G. Toderici: Improved lossy image compression with priming and spatially adaptive bit rates for recurrent networks. CVPR 2018. [[paper]](https://arxiv.org/abs/1703.10114)
 * [HKPU] M. Li, W. Zuo, S. Gu, D. Zhao, D. Zhang: Learning convolutional networks for content-weighted image compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1703.10553)
 * [ETHZ] F. Mentzer, E. Agustsson, M. Tschannen, R. Timofte, L. Van Gool: Conditional probability models for deep image compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1801.04260)
@@ -28,6 +28,15 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [RIT/PSU] A. G. Ororbia, A. Mali, J. Wu, S. O'Connell, D. Miller, C. L. Giles: Learned Neural Iterative Decoding for Lossy Image Compression Systems. ArXiv. [[paper]](https://arxiv.org/abs/1803.05863)
 * [SFU/Google] M. Akbari, J. Liang, J. Han: DSSLIC: Deep Semantic Segmentation-based Layered Image Compression. ArXiv. [[paper]](https://arxiv.org/abs/1806.03348)
 * [ETHZ] F. Mentzer, E. Agustsson, M. Tschannen, R. Timofte, L. V. Gool: Practical Full Resolution Learned Lossless Image Compression. ArXiv. [[paper]](https://arxiv.org/abs/1811.12817)
+
+### Video Coding
+
+* [USTC] Z. Chen, T. He, X. Jin, F. Wu: Learning for video compression. IEEE Trans. on CSVT 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8610323)
+* [UTEXAS] C. Wu, N. Singhal, P. Krähenbühl: Video Compression through Image Interpolation. ECCV 2018. [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Chao-Yuan_Wu_Video_Compression_through_ECCV_2018_paper.html)
+* [Disney] J. Han, S. Lombardo, C. Schroers, S. Mandt: Deep Probabilistic Video Compression. ArXiv. [[paper]](https://arxiv.org/abs/1810.02845)
+* [WaveOne] O. Rippel, S. Nair, C. Lew, S. Branson, A. G. Anderson, L. Bourdev: Learned Video Compression. ArXiv. [[paper]](https://arxiv.org/abs/1811.06981)
+* [SJTU/Sydney] G. Lu, W. Ouyang, D. Xu, X. Zhang, C. Cai, Z. Gao: DVC: An End-to-end Deep Video Compression Framework. ArXiv. [[paper]](https://arxiv.org/abs/1812.00101)
+* [UTEXAS] S. Kim, J. S. Park, C. G. Bampis, J. Lee, M. K. Markey, A. G. Dimakis, A. C. Bovik: Adversarial Video Compression Guided by Soft Edge Detection. ArXiv. [[paper]](https://arxiv.org/abs/1811.10673)
 
 ## 2019
 
