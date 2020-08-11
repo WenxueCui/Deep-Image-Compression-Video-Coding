@@ -81,6 +81,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 ### Image Compression
 
+* [PKU] Yueyu Hu,Wenhan Yang, Jiaying Liu: Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression. AAAI 2020. [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6736/6590)
 * [U-Tokyo] Zhisheng Zhong, Hiroaki Akutsu, Kiyoharu Aizawa: Channel-Level Variable Quantization Network for Deep Image Compression. IJCAI 2020. [[paper]](https://arxiv.org/pdf/2007.12619.pdf)
 * [BUAA] Jiaheng Liu, Guo Lu, Zhihao Hu, Dong Xu: A Unified End-to-End Framework for Efficient Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2002.03370)
 * [UT-Austin] Li-Heng Chen, Christos G. Bampis, Zhi Li, Andrey Norkin, Alan C. Bovik: Perceptually Optimizing Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2007.02711v1)
@@ -95,6 +96,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [USTC] Jianping Lin, Dong Liu, Houqiang Li, Feng Wu: M-LVC: Multiple Frames Prediction for Learned Video Compression. CVPR 2020. [[paper]](https://arxiv.org/abs/2004.10290)
 * [ETH Zurich] Ren Yang, Luc Van Gool, Radu Timofte: OpenDVC: An Open Source Implementation of the DVC Video Compression Method. Arxiv. [[paper]](https://arxiv.org/abs/2006.15862)
 * [Tucodec Inc] XiangJi Wu, Ziwen Zhang, Jie Feng, Lei Zhou, Junmin Wu: End-to-end Optimized Video Compression with MV-Residual Prediction. CVPR 2020 Workshops. [[paper]](https://arxiv.org/abs/2005.12945)
+* [Hikvision] Jianing Deng, LiWang, Shiliang Pu, Cheng Zhuo: Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement. AAAI 2020. [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6697/6551)
 * [UCSD] Vijay Veerabadran, Reza Pourreza, Amirhossein Habibian, Taco Cohen: Adversarial Distortion for Learned Video Compression. Arxiv. [[paper]](https://arxiv.org/abs/2004.09508)
 * [Nokia] Nannan Zou, Honglei Zhang, Francesco Cricri, Hamed R. Tavakoli, Jani Lainema, Emre Aksu, Miska Hannuksela, Esa Rahtu: End-to-End Learning for Video Frame Compression with Self-Attention. Arxiv. [[paper]](https://arxiv.org/abs/2004.09226)
 * [SJTU] Guo Lu, Chunlei Cai, Xiaoyun Zhang, Li Chen, Wanli Ouyang, Dong Xu, Zhiyong Gao: Content Adaptive and Error Propagation Aware Deep Video Compression. Arxiv. [[paper]](https://arxiv.org/abs/2003.11282)
@@ -108,4 +110,5 @@ Recent papers and codes related to deep learning/deep neural network based image
 ## Compressed Sensing
 
 * [TUM] Reinhard Heckel, Mahdi Soltanolkotabi: Compressive sensing with un-trained neural networks: Gradient descent finds the smoothest approximation. ICML 2020. [[paper]](https://arxiv.org/pdf/2005.03991.pdf)
+* [TU/e] Iris A.M. Huijben, Bastiaan S. Veeling, Ruud J.G. van Sloun: Deep probabilistic subsampling for task-adaptive compressed sensing. ICLR 2020. [[paper]](https://openreview.net/pdf?id=SJeq9JBFvH)
 
