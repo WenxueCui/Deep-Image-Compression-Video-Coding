@@ -3,4 +3,4 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 ## 2016
 
-* Variable Rate Image Compression with Recurrent Neural Networks ICLR [paper](http://de.arxiv.org/pdf/1511.06085)
+* Variable Rate Image Compression with Recurrent Neural Networks. ICLR 2016 [[paper]](http://de.arxiv.org/pdf/1511.06085)
