@@ -82,6 +82,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [BUAA] Jiaheng Liu, Guo Lu, Zhihao Hu, Dong Xu: A Unified End-to-End Framework for Efficient Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2002.03370)
 * [UT-Austin] Li-Heng Chen, Christos G. Bampis, Zhi Li, Andrey Norkin, Alan C. Bovik: Perceptually Optimizing Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2007.02711v1)
+* [NJU] Haojie Liu, Han shen, Lichao Huang, Ming Lu, Tong Chen, Zhan Ma: Learned Video Compression via Joint Spatial-Temporal Correlation Exploration. AAAI 2020. [[paper]](https://arxiv.org/abs/1912.06348)
 * [UCL] James Townsend, Thomas Bird, Julius Kunze, David Barber: HiLLoC: Lossless Image Compression with Hierarchical Latent Variable Models. ICLR 2020. [[paper]](https://arxiv.org/abs/1912.09953)
 * [Waseda University] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto: Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules. Arxiv. [[paper]](https://arxiv.org/abs/2001.01568)
 * [UT-Austin] Sheng Cao, Chao-Yuan Wu, Philipp Krähenbühl: Lossless Image Compression through Super-Resolution. Arxiv. [[paper]](https://arxiv.org/abs/2004.02872)
