@@ -25,10 +25,12 @@ Recent papers and codes related to deep learning/deep neural network based image
 ### Image Compression
 * [Google] N. Johnston, D. Vincent, D. Minnen, M. Covell, S. Singh, T. Chinen, S. J. Hwang, J. Shor, G. Toderici: Improved lossy image compression with priming and spatially adaptive bit rates for recurrent networks. CVPR 2018. [[paper]](https://arxiv.org/abs/1703.10114)
 * [HKPU] M. Li, W. Zuo, S. Gu, D. Zhao, D. Zhang: Learning convolutional networks for content-weighted image compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1703.10553)
+* [Google] David Minnen, Johannes Ballé, George Toderici: Joint Autoregressive and Hierarchical Priors for Learned Image Compression. NIPS 2018. [[paper]](https://arxiv.org/abs/1809.02736?context=cs.CV)
 * [Google] Johannes Ballé, David Minnen, Saurabh Singh, Sung Jin Hwang, Nick Johnston: Variational image compression with a scale hyperprior. ICLR 2018. [[paper]](https://arxiv.org/abs/1802.01436)
 * [ETHZ] F. Mentzer, E. Agustsson, M. Tschannen, R. Timofte, L. Van Gool: Conditional probability models for deep image compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1801.04260)
 * [Technion] T.R. Shaham, T. Michaeli: Deformation Aware Image Compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1804.04593)
 * [INRIA] T. Dumas, Aline, Roumy, C. Guillemot: Autoencoder based Image Compression: Can the Learning be Quantization Independent? ICASSP 2018. [[paper]](https://arxiv.org/abs/1802.09371)
+* [SJTU] Chunlei Cai, Li Chen, Xiaoyun Zhang, Zhiyong Gao: Efficient Variable Rate Image Compression With Multi-Scale Decomposition Network. Tans CSVT. [[paper]](https://ieeexplore.ieee.org/document/8531758)
 * [Google] D. Minnen, G. Toderici, S. Singh, S. J. Hwang, M. Covell: Image-Dependent Local Entropy Models for Learned Image Compression. ICIP 2018. [[paper]](https://arxiv.org/abs/1805.12295)
 * [Google] T. Chinen, J. Ballé, C. Gu, S. J. Hwang, S. Ioffe, N. Johnston, T. Leung, D. Minnen, S. O'Malley, C. Rosenberg, G. Toderici Towards A Semantic Perceptual Image Metric. ICIP 2018. [[paper]](https://arxiv.org/abs/1808.00447)
 * [RIT/PSU] A. G. Ororbia, A. Mali, J. Wu, S. O'Connell, D. Miller, C. L. Giles: Learned Neural Iterative Decoding for Lossy Image Compression Systems. ArXiv. [[paper]](https://arxiv.org/abs/1803.05863)
