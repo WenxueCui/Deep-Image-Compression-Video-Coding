@@ -81,6 +81,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [BUAA] Jiaheng Liu, Guo Lu, Zhihao Hu, Dong Xu: A Unified End-to-End Framework for Efficient Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2002.03370)
 * [UT-Austin] Li-Heng Chen, Christos G. Bampis, Zhi Li, Andrey Norkin, Alan C. Bovik: Perceptually Optimizing Deep Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2007.02711v1)
+* [UT-Austin] Sheng Cao, Chao-Yuan Wu, Philipp Krähenbühl: Lossless Image Compression through Super-Resolution. Arxiv. [[paper]](https://arxiv.org/abs/2004.02872)
 * [UofT] Yaolong Wang, Mingqing Xiao, Chang Liu, Shuxin Zheng, Tie-Yan Liu: Modeling Lost Information in Lossy Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2006.11999v1)
 
 ### Video Coding
