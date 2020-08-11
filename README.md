@@ -17,6 +17,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [INRIA] T. Dumas, A. Roumy, C. Guillemot: Image compression with stochastic winner-take-all auto-encoder. ICASSP 2017. [[paper]](https://ieeexplore.ieee.org/document/7952409/)
 * [WaveOne] O. Rippel, L. Bourdev: Real-time adaptive image compression. ICML 2017. [[paper]](https://arxiv.org/abs/1705.05823)
 * [Dartmouth] M. H. Baig, V. Koltun, L. Torresani: Learning to Inpaint for Image Compression. NIPS 2017. [[paper]](https://arxiv.org/abs/1709.08855)
+* [BJTU] Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao: Learning a Virtual Codec Based on Deep Convolutional Neural Network to Compress Image. Arxiv. [[paper]](https://arxiv.org/abs/1712.05969)
 
 ### Video Coding
 * [NJU] Tong Chen, Haojie Liu, Qiu Shen, Tao Yue: DeepCoder: A deep neural network based video compression. VCIP 2017. [[paper]](https://ieeexplore.ieee.org/document/8305033)
