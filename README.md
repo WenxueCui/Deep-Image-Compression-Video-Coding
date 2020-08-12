@@ -31,6 +31,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [ETHZ] F. Mentzer, E. Agustsson, M. Tschannen, R. Timofte, L. Van Gool: Conditional probability models for deep image compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1801.04260)
 * [Technion] T.R. Shaham, T. Michaeli: Deformation Aware Image Compression. CVPR 2018. [[paper]](https://arxiv.org/abs/1804.04593)
 * [INRIA] T. Dumas, Aline, Roumy, C. Guillemot: Autoencoder based Image Compression: Can the Learning be Quantization Independent? ICASSP 2018. [[paper]](https://arxiv.org/abs/1802.09371)
+* [BJTU] Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao: Multiple Description Convolutional Neural Networks for Image Compression. Trans CSVT. [[paper]](https://arxiv.org/abs/1801.06611)
 * [SJTU] Chunlei Cai, Li Chen, Xiaoyun Zhang, Zhiyong Gao: Efficient Variable Rate Image Compression With Multi-Scale Decomposition Network. Tans CSVT. [[paper]](https://ieeexplore.ieee.org/document/8531758)
 * [Google] D. Minnen, G. Toderici, S. Singh, S. J. Hwang, M. Covell: Image-Dependent Local Entropy Models for Learned Image Compression. ICIP 2018. [[paper]](https://arxiv.org/abs/1805.12295)
 * [Google] T. Chinen, J. Ballé, C. Gu, S. J. Hwang, S. Ioffe, N. Johnston, T. Leung, D. Minnen, S. O'Malley, C. Rosenberg, G. Toderici Towards A Semantic Perceptual Image Metric. ICIP 2018. [[paper]](https://arxiv.org/abs/1808.00447)
