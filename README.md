@@ -93,6 +93,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [Waseda University] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto: Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules. Arxiv. [[paper]](https://arxiv.org/abs/2001.01568)
 * [UT-Austin] Sheng Cao, Chao-Yuan Wu, Philipp Krähenbühl: Lossless Image Compression through Super-Resolution. Arxiv. [[paper]](https://arxiv.org/abs/2004.02872)
 * [UofT] Yaolong Wang, Mingqing Xiao, Chang Liu, Shuxin Zheng, Tie-Yan Liu: Modeling Lost Information in Lossy Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2006.11999v1)
+* [Yonsei University] Hanbin Son, Taeoh Kim, Hyeongmin Lee, and Sangyoun Lee: Enhanced Standard Compatible Image Compression Framework based on Auxiliary Codec Networks. Arxiv. [[paper]](https://arxiv.org/pdf/2009.14754.pdf)
 
 ### Video Coding
 
