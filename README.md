@@ -113,4 +113,5 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [NVIDIA] Ting-Chun Wang, Arun Mallya, Ming-Yu Liu: One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing. Arxiv. [[paper]](https://arxiv.org/pdf/2011.15126.pdf)
 * [NJU] Ming Lu, Tong Chen, Dandan Ding, Fengqing Zhu, Zhan Ma: Decomposition, Compression, and Synthesis (DCS)-based Video Coding: A Neural Exploration via Resolution-Adaptive Learning. Arxiv. [[paper]](https://arxiv.org/pdf/2012.00650.pdf)
 * [University of Bristol] Di Ma, Fan Zhang and David R. Bull: CVEGAN: A Perceptually-inspired GAN for Compressed Video Enhancement. Arxiv. [[paper]](https://arxiv.org/pdf/2011.09190.pdf)
+* [Uber ATG] Jerry Liu, Shenlong Wang, Wei-Chiu Ma, Meet Shah, Rui Hu, Pranaab Dhawan, Raquel Urtasun: Conditional Entropy Coding for Efficient Video Compression. ECCV 2020. [[paper]](https://arxiv.org/pdf/2008.09180.pdf)
 
