@@ -94,7 +94,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [UT-Austin] Sheng Cao, Chao-Yuan Wu, Philipp Krähenbühl: Lossless Image Compression through Super-Resolution. Arxiv. [[paper]](https://arxiv.org/abs/2004.02872)
 * [UofT] Yaolong Wang, Mingqing Xiao, Chang Liu, Shuxin Zheng, Tie-Yan Liu: Modeling Lost Information in Lossy Image Compression. Arxiv. [[paper]](https://arxiv.org/abs/2006.11999v1)
 * [Yonsei University] Hanbin Son, Taeoh Kim, Hyeongmin Lee, and Sangyoun Lee: Enhanced Standard Compatible Image Compression Framework based on Auxiliary Codec Networks. Arxiv. [[paper]](https://arxiv.org/pdf/2009.14754.pdf)
-* [PKU] Jianhui Chang, Zhenghui Zhao, Chuanmin Jia, Shiqi Wang, Lingbo Yang, Jian Zhang and Siwei Ma: Conceptual Compression via Deep Structure and Texture Synthesis. [[paper]](https://arxiv.org/pdf/2011.04976.pdf)
+* [PKU] Jianhui Chang, Zhenghui Zhao, Chuanmin Jia, Shiqi Wang, Lingbo Yang, Jian Zhang and Siwei Ma: Conceptual Compression via Deep Structure and Texture Synthesis. Arxiv [[paper]](https://arxiv.org/pdf/2011.04976.pdf)
 
 ### Video Coding
 
@@ -111,4 +111,6 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [ETH Zurich] Ren Yang, Fabian Mentzer, Luc Van Gool, Radu Timofte: Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement. Arxiv. [[paper]](https://arxiv.org/abs/2003.01966)
 * [IETR] Théo Ladune (IETR), Pierrick Philippe, Wassim Hamidouche (IETR), Lu Zhang (IETR), Olivier Déforges (IETR): ModeNet: Mode Selection Network For Learned Video Coding. Arxiv. [[paper]](https://arxiv.org/abs/2007.02532v1)
 * [NVIDIA] Ting-Chun Wang, Arun Mallya, Ming-Yu Liu: One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing. Arxiv. [[paper]](https://arxiv.org/pdf/2011.15126.pdf)
+* [NJU] Ming Lu, Tong Chen, Dandan Ding, Fengqing Zhu, Zhan Ma: Decomposition, Compression, and Synthesis (DCS)-based Video Coding: A Neural Exploration via Resolution-Adaptive Learning. Arxiv. [[paper]](https://arxiv.org/pdf/2012.00650.pdf)
+* [University of Bristol] Di Ma, Fan Zhang and David R. Bull: CVEGAN: A Perceptually-inspired GAN for Compressed Video Enhancement. Arxiv. [[paper]](https://arxiv.org/pdf/2011.09190.pdf)
 
