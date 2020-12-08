@@ -109,4 +109,5 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [ETH Zurich] Ren Yang, Fabian Mentzer, Luc Van Gool, Radu Timofte: Learning for Video Compression with Recurrent Auto-Encoder and Recurrent Probability Model. Arxiv. [[paper]](https://arxiv.org/abs/2006.13560v1)
 * [ETH Zurich] Ren Yang, Fabian Mentzer, Luc Van Gool, Radu Timofte: Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement. Arxiv. [[paper]](https://arxiv.org/abs/2003.01966)
 * [IETR] Théo Ladune (IETR), Pierrick Philippe, Wassim Hamidouche (IETR), Lu Zhang (IETR), Olivier Déforges (IETR): ModeNet: Mode Selection Network For Learned Video Coding. Arxiv. [[paper]](https://arxiv.org/abs/2007.02532v1)
+* [NVIDIA] Ting-Chun Wang, Arun Mallya, Ming-Yu Liu: One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing. Arxiv. [[paper]](https://arxiv.org/pdf/2011.15126.pdf)
 
