@@ -128,6 +128,12 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [USTC] Yefei Wang, Dong Liu, Siwei Ma, Feng Wu, Wen Gao: Ensemble Learning-Based Rate-Distortion Optimization for End-to-End Image Compression. TCSVT 2021. [[paper]](https://www.researchgate.net/publication/341956507_Ensemble_Learning-Based_Rate-Distortion_Optimization_for_End-to-End_Image_Compression)
 
+* [Peking University] Yueyu Hu, Wenhan Yang, Zhan Ma, Jiaying Liu: Learning End-to-End Lossy Image Compression: A Benchmark. TPAMI 2021. [[paper]](https://arxiv.org/abs/2002.03711)
+
+* [SFU] Mohammad Akbari, Jie Liang, Jingning Han, Chengjie Tu: Learned Multi-Resolution Variable-Rate Image Compression with Octave-based Residual Blocks. TMM 2021. [[paper]](http://arxiv.org/abs/2012.15463)
+
+* [USTC] Zongyu Guo, Zhizheng Zhang, Runsen Feng and Zhibo Chen: Causal Contextual Prediction for Learned Image Compression. TCSVT 2021. [[paper]](http://arxiv.org/abs/2011.09704v3)
+
 ### Video Coding
 
 coming soon...
