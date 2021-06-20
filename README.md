@@ -122,6 +122,10 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [Macau University] Yumo Zhang, Zhanchuan Cai , Senior Member, IEEE, and Gangqiang Xiong: A New Image Compression Algorithm Based on Non-Uniform Partition and U-System. TMM 2021. [[paper]](https://www.researchgate.net/publication/341197705_A_New_Image_Compression_Algorithm_Based_on_Non-Uniform_Partition_and_U-System)
 
+* [Tohoku University] Shoma Iwai, Tomo Miyazaki, Yoshihiro Sugaya, and Shinichiro Omachi: Fidelity-Controllable Extreme Image Compression with Generative Adversarial Networks. ICPR 2021. [[paper]](https://arxiv.org/abs/2008.10314v1)
+
+* [Nanjing University] Tong Chen, Haojie Liu, Zhan Ma, Qiu Shen, Xun Cao, and Yao Wang: End-to-End Learnt Image Compression via Non-Local Attention Optimization and Improved Context Modeling. ICPR 2021. [[paper]](https://www.researchgate.net/publication/349465014_End-to-End_Learnt_Image_Compression_via_Non-Local_Attention_Optimization_and_Improved_Context_Modeling)
+
 
 ### Video Coding
 
