@@ -126,6 +126,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [Nanjing University] Tong Chen, Haojie Liu, Zhan Ma, Qiu Shen, Xun Cao, and Yao Wang: End-to-End Learnt Image Compression via Non-Local Attention Optimization and Improved Context Modeling. TIP 2021. [[paper]](https://www.researchgate.net/publication/349465014_End-to-End_Learnt_Image_Compression_via_Non-Local_Attention_Optimization_and_Improved_Context_Modeling)
 
+* [USTC] Yefei Wang, Dong Liu, Siwei Ma, Feng Wu, Wen Gao: Ensemble Learning-Based Rate-Distortion Optimization for End-to-End Image Compression. TCSVT 2021. [[paper]](https://www.researchgate.net/publication/341956507_Ensemble_Learning-Based_Rate-Distortion_Optimization_for_End-to-End_Image_Compression)
 
 ### Video Coding
 
