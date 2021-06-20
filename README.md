@@ -124,7 +124,7 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [Tohoku University] Shoma Iwai, Tomo Miyazaki, Yoshihiro Sugaya, and Shinichiro Omachi: Fidelity-Controllable Extreme Image Compression with Generative Adversarial Networks. ICPR 2021. [[paper]](https://arxiv.org/abs/2008.10314v1)
 
-* [Nanjing University] Tong Chen, Haojie Liu, Zhan Ma, Qiu Shen, Xun Cao, and Yao Wang: End-to-End Learnt Image Compression via Non-Local Attention Optimization and Improved Context Modeling. ICPR 2021. [[paper]](https://www.researchgate.net/publication/349465014_End-to-End_Learnt_Image_Compression_via_Non-Local_Attention_Optimization_and_Improved_Context_Modeling)
+* [Nanjing University] Tong Chen, Haojie Liu, Zhan Ma, Qiu Shen, Xun Cao, and Yao Wang: End-to-End Learnt Image Compression via Non-Local Attention Optimization and Improved Context Modeling. TIP 2021. [[paper]](https://www.researchgate.net/publication/349465014_End-to-End_Learnt_Image_Compression_via_Non-Local_Attention_Optimization_and_Improved_Context_Modeling)
 
 
 ### Video Coding
