@@ -120,7 +120,8 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 ### Image Compression
 
-coming soon...
+* [Macau University] Yumo Zhang, Zhanchuan Cai , Senior Member, IEEE, and Gangqiang Xiong: A New Image Compression Algorithm Based on Non-Uniform Partition and U-System. TMM 2021. [[paper]](https://www.researchgate.net/publication/341197705_A_New_Image_Compression_Algorithm_Based_on_Non-Uniform_Partition_and_U-System)
+
 
 ### Video Coding
 
