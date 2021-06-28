@@ -134,6 +134,8 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [USTC] Zongyu Guo, Zhizheng Zhang, Runsen Feng and Zhibo Chen: Causal Contextual Prediction for Learned Image Compression. TCSVT 2021. [[paper]](http://arxiv.org/abs/2011.09704v3)
 
+* [Sejong University] Khawar Islam, Dang Lien Minh, Sujin Lee, Hyeonjoon Moon: Image Compression with Recurrent Neural Network and Generalized Divisive Normalization. CVPR 2021. [[paper]](https://khawar512.github.io/cvpr/)
+
 ### Video Coding
 
 * [HIT] Yang Wang, Xiaopeng Fan, Ruiqin Xiong, Debin Zhao, Wen Gao: Neural Network-based Enhancement to Inter Prediction for Video Coding. TCSVT 2021. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366783)
