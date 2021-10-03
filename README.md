@@ -144,4 +144,6 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [BBC Research] Marc Górriz Blanch, Saverio Blasi, Alan F. Smeaton, Noel E. O’Connor, and Marta Mrak: Neural Network-based Enhancement to Inter Prediction for Video Coding. JSTSP 2021. [[paper]](https://www.researchgate.net/publication/347629989_Attention-Based_Neural_Networks_for_Chroma_Intra_Prediction_in_Video_Coding)
 
+* [Microsoft Research Asia] Jiahao Li, Bin Li, Yan Lu: Deep Contextual Video Compression. [[paper]](https://arxiv.org/pdf/2109.15047.pdf)
+
 
