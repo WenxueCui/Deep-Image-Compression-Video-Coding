@@ -136,6 +136,8 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [Sejong University] Khawar Islam, Dang Lien Minh, Sujin Lee, Hyeonjoon Moon: Image Compression with Recurrent Neural Network and Generalized Divisive Normalization. CVPR 2021. [[paper]](https://khawar512.github.io/cvpr/)
 
+* [USTC] Haichuan Ma, Dong Liu, Cunhui Dong, Li Li, Feng Wu: End-to-End Image Compression with Probabilistic Decoding. [[paper]](https://arxiv.org/pdf/2109.14837.pdf)
+
 ### Video Coding
 
 * [HIT] Yang Wang, Xiaopeng Fan, Ruiqin Xiong, Debin Zhao, Wen Gao: Neural Network-based Enhancement to Inter Prediction for Video Coding. TCSVT 2021. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366783)
