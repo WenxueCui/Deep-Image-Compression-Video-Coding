@@ -140,6 +140,8 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [SenseTime Research] Baocheng Sun, Meng Gu, Dailan He, Tongda Xu, Yan Wang, Hongwei Qin: HLIC: Harmonizing Optimization Metrics in Learned Image Compression by Reinforcement Learning. [[paper]](https://arxiv.org/pdf/2109.14863.pdf)
 
+* [Seoul National University] Myungseo Song, Jinyoung Choi, Bohyung Han: Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform. [[paper]](https://arxiv.org/pdf/2108.09551.pdf)
+
 ### Video Coding
 
 * [HIT] Yang Wang, Xiaopeng Fan, Ruiqin Xiong, Debin Zhao, Wen Gao: Neural Network-based Enhancement to Inter Prediction for Video Coding. TCSVT 2021. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366783)
