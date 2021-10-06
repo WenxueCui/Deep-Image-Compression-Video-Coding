@@ -142,6 +142,14 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [Seoul National University] Myungseo Song, Jinyoung Choi, Bohyung Han: Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform. ICCV 2021. [[paper]](https://arxiv.org/pdf/2108.09551.pdf)
 
+* [Northwestern Polytechnical University] Fei Yang, Luis Herranz, Yongmei Cheng, Mikhail G. Mozerov: Slimmable Compressive Autoencoders for Practical Neural Image Compression. CVPR 2021. [[paper]](https://arxiv.org/pdf/2103.15726.pdf)
+
+* [SenseTime Research] Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, Hongwei Qin: Checkerboard Context Model for Efficient Learned Image Compression. CVPR 2021. [[paper]](https://arxiv.org/pdf/2103.15306.pdf)
+
+* [Peng Cheng Lab] Yuanchao Bai, Xianming Liu, Wangmeng Zuo, Yaowei Wang, Xiangyang Ji: Learning Scalable ℓ∞-constrained Near-lossless Image Compression via Joint Lossy Image and Residual Compression. CVPR 2021. [[paper]](https://arxiv.org/pdf/2103.17015.pdf)
+
+* [SJTU] Xi Zhang, Xiaolin Wu: Attention-guided Image Compression by Deep Reconstruction of Compressive Sensed Saliency Skeleton. CVPR 2021. [[paper]](https://arxiv.org/pdf/2103.15368.pdf)
+
 ### Video Coding
 
 * [HIT] Yang Wang, Xiaopeng Fan, Ruiqin Xiong, Debin Zhao, Wen Gao: Neural Network-based Enhancement to Inter Prediction for Video Coding. TCSVT 2021. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366783)
