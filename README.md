@@ -159,3 +159,9 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [Microsoft Research Asia] Jiahao Li, Bin Li, Yan Lu: Deep Contextual Video Compression. [[paper]](https://arxiv.org/pdf/2109.15047.pdf)
 
 * [HIT] Hengyu Man, Xiaopeng Fan, Ruiqin Xiong, Debin Zhao: Data Clustering-Driven Neural Network for Intra Prediction. [[paper]](https://arxiv.org/pdf/2106.05481.pdf)
+
+* [iSIZE] Aaron Chadha, Yiannis Andreopoulos: Deep Perceptual Preprocessing for Video Coding. CVPR 2021. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chadha_Deep_Perceptual_Preprocessing_for_Video_Coding_CVPR_2021_paper.pdf)
+
+* [Hosei University] Chi D. K. Pham, Chen Fu, Jinjia Zhou: Deep Learning Based Spatial-Temporal In-Loop Filtering for Versatile Video Coding. CVPR 2021. [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/CLIC/papers/Pham_Deep_Learning_Based_Spatial-Temporal_In-Loop_Filtering_for_Versatile_Video_Coding_CVPRW_2021_paper.pdf)
+
+* [Qualcomm Technologies] Hilmi E. Egilmez, Ankitesh K. Singh, Muhammed Coban, Marta Karczewicz, Yinhao Zhu, Yang Yang, Amir Said, Taco S. Cohen: Transform Network Architectures for Deep Learning based End-to-End Image/Video Coding in Subsampled Color Spaces. [[paper]](https://arxiv.org/pdf/2103.01760.pdf)
