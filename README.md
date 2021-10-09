@@ -158,4 +158,4 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 * [Microsoft Research Asia] Jiahao Li, Bin Li, Yan Lu: Deep Contextual Video Compression. [[paper]](https://arxiv.org/pdf/2109.15047.pdf)
 
-
+* [HIT] Hengyu Man, Xiaopeng Fan, Ruiqin Xiong, Debin Zhao: Data Clustering-Driven Neural Network for Intra Prediction. [[paper]](https://arxiv.org/pdf/2106.05481.pdf)
