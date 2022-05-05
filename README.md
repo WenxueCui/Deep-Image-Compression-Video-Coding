@@ -188,9 +188,24 @@ Learned Image Compression. [[paper]](https://arxiv.org/pdf/2204.12022.pdf)
 
 * [Tsinghua University] Dailan He1, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, Yan Wang: ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding. [[paper]](https://arxiv.org/pdf/2203.10886.pdf)
 
+* [Peking University] Yi Ma, Yongqi Zhai, and Ronggang Wang: DeepFGS: Fine-Grained Scalable Coding for Learned Image Compression. [[paper]](https://arxiv.org/pdf/2201.01173.pdf)
+
+* [Friedrich-Alexander University] Fabian Brand, Kristian Fischer, Alexander Kopte, and Andre Kaup: Learning True Rate-Distortion-Optimization for End-To-End Image Compression. [[paper]](https://arxiv.org/pdf/2201.01586.pdf)
+
+* [Alibaba Group] Yichen Qian, Ming Lin, Xiuyu Sun: EnTroformer: A Transformer-based Entropy Model for Learned Image Compression. [[paper]](https://arxiv.org/pdf/2202.05492.pdf)
+
+* [SenseTime Research] Dailan He, Ziming Yang, Yuan Chen, Qi Zhang, Hongwei Qin, Yan Wang: Post-Training Quantization for Cross-Platform Learned Image Compression. [[paper]](https://arxiv.org/pdf/2202.07513.pdf)
+
 
 ### Video Coding
 
-* [Vrije Universiteit Amsterdam] Yura Perugachi-Diaz, Guillaume Sautiere, Davide Abati, Yang Yang: Region-of-Interest Based Neural Video Compression. TCSVT 2021. [[paper]](https://arxiv.org/pdf/2203.01978.pdf)
+* [Vrije Universiteit Amsterdam] Yura Perugachi-Diaz, Guillaume Sautiere, Davide Abati, Yang Yang: Region-of-Interest Based Neural Video Compression. [[paper]](https://arxiv.org/pdf/2203.01978.pdf)
+
+* [Nanjing University of Aeronautics and Astronautics] Haoyue Tian, Pan Gao, Ran Wei, Manoranjan Paul: Dilated Convolutional Neural Network-based Deep Reference Picture Generation for video compression. [[paper]](https://arxiv.org/pdf/2202.05514.pdf)
+
+* [Koç University] M. Akın Yılmaz, and A. Murat Tekalp: End-to-End Rate-Distortion Optimized Learned Hierarchical Bi-Directional Video Compression. TIP 2022. [[paper]](https://arxiv.org/abs/2112.09529v1)
+
+* [Nanjing University] Dandan Ding , Xiang Gao, Chenran Tang, and Zhan Ma: Neural Reference Synthesis for Inter Frame Coding. TIP 2022. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9658260)
+
 
 
