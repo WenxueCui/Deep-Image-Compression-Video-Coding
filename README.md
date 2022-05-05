@@ -165,3 +165,32 @@ Recent papers and codes related to deep learning/deep neural network based image
 * [Hosei University] Chi D. K. Pham, Chen Fu, Jinjia Zhou: Deep Learning Based Spatial-Temporal In-Loop Filtering for Versatile Video Coding. CVPR 2021. [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/CLIC/papers/Pham_Deep_Learning_Based_Spatial-Temporal_In-Loop_Filtering_for_Versatile_Video_Coding_CVPRW_2021_paper.pdf)
 
 * [Qualcomm Technologies] Hilmi E. Egilmez, Ankitesh K. Singh, Muhammed Coban, Marta Karczewicz, Yinhao Zhu, Yang Yang, Amir Said, Taco S. Cohen: Transform Network Architectures for Deep Learning based End-to-End Image/Video Coding in Subsampled Color Spaces. [[paper]](https://arxiv.org/pdf/2103.01760.pdf)
+
+
+## 2022
+
+### Image Compression
+
+* [Nanjing University] Ming Lu and Zhan Ma: High-Efficiency Lossy Image Coding Through Adaptive Neighborhood Information Aggregation. [[paper]](https://arxiv.org/pdf/2204.11448.pdf)
+
+* [New York University] Jiuhong Xiao, Lavisha Aggarwal, Prithviraj Banerjee, Manoj Aggarwal, and Gerard Medioni: Identity Preserving Loss for Learned Image Compression. [[paper]](https://arxiv.org/pdf/2204.10869.pdf)
+
+* [University of Texas] Li-Heng Chen, Christos G. Bampis, Zhi Li, Lukas Krasula, and Alan C. Bovik: Estimating the Resize Parameter in End-to-end
+Learned Image Compression. [[paper]](https://arxiv.org/pdf/2204.12022.pdf)
+
+* [UCAS] Renjie Zou, Chunfeng Song and Zhaoxiang Zhang: The Devil Is in the Details: Window-based Attention for Image Compression. [[paper]](https://arxiv.org/pdf/2203.08450.pdf)
+
+* [UESTC] Xiaosu Zhu, Jingkuan Song, Lianli Gao Feng Zheng Heng Tao Shen: Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression. [[paper]](https://arxiv.org/pdf/2203.10897.pdf)
+
+* [Technical University of Munich] A. Burakhan Koyuncu, Han Gao, Eckehard Steinbach: contextformer: A Transformer with spatio-channel attention for context modeling in learned image compression. [[paper]](https://arxiv.org/pdf/2203.02452.pdf)
+
+* [Peking University] Dezhao Wang Wenhan Yang Yueyu Hu Jiaying Liu: Neural Data-Dependent Transform for Learned Image Compression. [[paper]](https://arxiv.org/pdf/2203.04963.pdf)
+
+* [Tsinghua University] Dailan He1, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, Yan Wang: ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding. [[paper]](https://arxiv.org/pdf/2203.10886.pdf)
+
+
+### Video Coding
+
+* [Vrije Universiteit Amsterdam] Yura Perugachi-Diaz, Guillaume Sautiere, Davide Abati, Yang Yang: Region-of-Interest Based Neural Video Compression. TCSVT 2021. [[paper]](https://arxiv.org/pdf/2203.01978.pdf)
+
+
